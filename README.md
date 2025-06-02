@@ -1,7 +1,7 @@
 # port_scanner
 This is a simple Python-based port scanner designed to identify open TCP ports on a specified target. It takes a target IP or hostname and a port range, then attempts to connect to each port to determine if it is open.
 
- Features:
+----Features:
  
 Accepts target IP or hostname input
 
@@ -13,7 +13,7 @@ Includes timeout handling for fast scanning
 
 Measures total scan duration
 
- Why I Built This
+----Why I Built This
  
 As part of my journey into cybersecurity, I created this tool to deepen my understanding of network scanning, port enumeration, and how attackers and defenders interact with services on a network. This project demonstrates my ability to:
 
@@ -23,7 +23,7 @@ Use common security techniques in a legal, ethical lab environment
 
 Build foundational tools used in real-world recon and pentesting workflows
 
- Learning Outcomes
+----Learning Outcomes
  
 By building this scanner from scratch, I’ve learned:
 
